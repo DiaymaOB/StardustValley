@@ -1,0 +1,196 @@
+fileFormatVersion: 2
+guid: 72c5d37b7edc54e48a9178f0bbaafa92
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: First Floor_001
+    100004: Layer0_001
+    100006: Roof_001
+    100008: Second Floor_001
+    100010: Third Floor_001
+    400000: //RootNode
+    400002: First Floor_001
+    400004: Layer0_001
+    400006: Roof_001
+    400008: Second Floor_001
+    400010: Third Floor_001
+    2100000: dbl_Roof_001
+    2100002: dbl_First Floor_006
+    2100004: dbl_First Floor_001
+    2100006: dbl_Roof_003
+    2100008: dbl_Roof_007
+    2100010: dbl_First Floor_002
+    2100012: dbl_First Floor_019
+    2100014: dbl_First Floor_016
+    2100016: dbl_Roof_004
+    2100018: dbl_First Floor_004
+    2100020: dbl_Roof_005
+    2100022: dbl_First Floor_008
+    2100024: dbl_First Floor_003
+    2100026: dbl_Second Floor_026
+    2100028: dbl_First Floor_020
+    2100030: dbl_First Floor_015
+    2100032: dbl_First Floor_005
+    2100034: dbl_First Floor_018
+    2100036: dbl_First Floor_010
+    2100038: dbl_First Floor_007
+    2100040: dbl_Second Floor_019
+    2100042: dbl_Second Floor_020
+    2100044: dbl_Third Floor_001
+    2100046: dbl_Third Floor_002
+    2100048: dbl_First Floor_025
+    2100050: dbl_First Floor_023
+    2100052: dbl_First Floor_024
+    2100054: dbl_First Floor_009
+    2100056: dbl_First Floor_012
+    2100058: dbl_First Floor_033
+    2100060: dbl_Second Floor_025
+    2100062: dbl_First Floor_011
+    2100064: dbl_Second Floor_004
+    2100066: dbl_Roof_002
+    2100068: dbl_First Floor_034
+    2100070: dbl_Roof_006
+    2100072: dbl_First Floor_031
+    2100074: dbl_Second Floor_027
+    2100076: dbl_First Floor_017
+    2100078: dbl_Layer0_001
+    2100080: dbl_Layer0_002
+    2100082: dbl_Layer0_003
+    2100084: dbl_First Floor_022
+    2100086: dbl_Layer0_004
+    2100088: dbl_Second Floor_013
+    2100090: dbl_Layer0_005
+    2100092: dbl_Layer0_006
+    2100094: dbl_Layer0_007
+    2100096: dbl_First Floor_037
+    2100098: dbl_Second Floor_001
+    2100100: dbl_Second Floor_002
+    2100102: dbl_Second Floor_003
+    2100104: dbl_Second Floor_005
+    2100106: dbl_Second Floor_006
+    2100108: dbl_First Floor_035
+    2100110: dbl_Second Floor_007
+    2100112: dbl_Second Floor_008
+    2100114: dbl_First Floor_029
+    2100116: dbl_Second Floor_009
+    2100118: dbl_Second Floor_010
+    2100120: dbl_Second Floor_011
+    2100122: dbl_Second Floor_012
+    2100124: dbl_Second Floor_014
+    2100126: dbl_First Floor_026
+    2100128: dbl_First Floor_030
+    2100130: dbl_Second Floor_015
+    2100132: dbl_Second Floor_016
+    2100134: dbl_Second Floor_017
+    2100136: dbl_Second Floor_018
+    2100138: dbl_First Floor_036
+    2100140: dbl_Second Floor_021
+    2100142: dbl_Second Floor_022
+    2100144: dbl_Second Floor_023
+    2100146: dbl_Second Floor_024
+    2100148: dbl_First Floor_013
+    2100150: dbl_First Floor_014
+    2100152: dbl_First Floor_021
+    2100154: dbl_First Floor_027
+    2100156: dbl_First Floor_028
+    2100158: dbl_First Floor_032
+    2100160: dbl_First Floor_038
+    2300000: First Floor_001
+    2300002: Layer0_001
+    2300004: Roof_001
+    2300006: Second Floor_001
+    2300008: Third Floor_001
+    3300000: First Floor_001
+    3300002: Layer0_001
+    3300004: Roof_001
+    3300006: Second Floor_001
+    3300008: Third Floor_001
+    4300000: Third Floor_001
+    4300002: Roof_001
+    4300004: Layer0_001
+    4300006: Second Floor_001
+    4300008: First Floor_001
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
